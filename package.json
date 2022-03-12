@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git"
+    "url": "https://github.com/BaldOtaku/cra-template-jimu.git"
   },
   "engines": {
     "node": ">=14"
