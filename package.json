@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-jimu",
+  "version": "1.0.0",
+  "description": "The Recoil+JS template for Create React App.",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
